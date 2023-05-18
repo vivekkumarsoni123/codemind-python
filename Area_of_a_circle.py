@@ -1,1 +1,2 @@
-print(3.14*pow((int(input())),2))
+n=int(input())
+print( format(3.14*n*n,"0.2f"))
